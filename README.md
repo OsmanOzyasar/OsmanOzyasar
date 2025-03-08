@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hello, I'm Osman! 👋
 
-<!--
-**OsmanOzyasar/OsmanOzyasar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎮 I'm working on game development and C# Backend.
+- 🌱 Currently learning **Unity, C#, ASP.NET Core, Entity Framework**.
+- 💡 I love exploring new technologies.
+- 🎯 My goal is to develop my own games!
 
-Here are some ideas to get you started:
+## 🛠️ Technologies I Use
+- **Languages:** C#, HTML, SQL  
+- **Frameworks:** ASP.NET Core, Entity Framework, Unity  
+- **Tools:** Git, GitHub, Visual Studio, Blender, Unity  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OsmanOzyasar&show_icons=true&theme=dark)  
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OsmanOzyasar&layout=compact&theme=dark)  
+
+## 📫 Contact Me
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/osman-özyaşar-332b0b24b)  
+- **Email:** osman.ozyasar27@gmail.com
