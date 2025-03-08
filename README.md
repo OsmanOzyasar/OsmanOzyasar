@@ -7,7 +7,7 @@
 - 🎯 My goal is to develop my own games!
 
 ## 🛠️ Technologies I Use
-- **Languages:** C#, HTML, SQL  
+- **Languages:** C#, HTML
 - **Frameworks:** ASP.NET Core, Entity Framework, Unity  
 - **Tools:** Git, GitHub, Visual Studio, Blender, Unity  
 
