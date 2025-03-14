@@ -1,7 +1,7 @@
 # Hello, I'm Osman! 👋
 
 ## 🚀 About Me                                                                                                          
-###
+##
 <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTFibTVndHAyajZtYXRsbXI0NGRvMTg4a3VseGF5eDV5ZGUzY3dxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g0OT8JBFRc8SY/giphy.gif"  />
 
 ###
@@ -10,6 +10,7 @@
 - 🌱 Currently learning **Unity, C#, ASP.NET Core, Entity Framework**.                                            
 - 💡 I love exploring new technologies.
 - 🎯 My goal is to develop my own games!
+
 
 ## 🛠️ Technologies I Use
 - **Languages:** C#, HTML
